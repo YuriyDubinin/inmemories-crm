@@ -19,7 +19,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'inMemories CMS',
+            title: 'inMemories CRM',
             template: './src/index.html',
             favicon: './src/public/favicon.ico',
         }),
